@@ -1,11 +1,6 @@
 # 💫 About Me:
 Hi there! I am a self-taught front-end developer and currently building apps with ReactJS.
 
-🔭 I’m currently working on a project called van-life using React Router's latest version! Check it out: https://van-life.onrender.com/
-
-🌱 I’m currently learning React Router v6.8.2
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/berfin-altunbey/) 
 
